@@ -59,3 +59,21 @@ void toggleLED()
   digitalWrite(pin_led,!digitalRead(pin_led));
   server.send(204,"");
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Des:
+how to write code in the Arduino IDE for getting a web server running. One of the most common tasks when using the ESP8266 is setting it up as a device that connects to a network and responds to traffic on it (i.e., a Webserver).  
