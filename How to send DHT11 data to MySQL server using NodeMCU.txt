@@ -24,7 +24,7 @@ if($_GET['temperature'] != '' and  $_GET['humidity'] != ''){
 
 
 ///Php Code end
-
+///https://www.youtube.com/watch?v=OZpvE4U2pPU&list=PL_dH0GapJRtUkW_3iS_rlOA0X3muglxmQ&index=6
 
 ///Arduino Code begin
 
